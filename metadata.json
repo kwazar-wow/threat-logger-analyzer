@@ -1,0 +1,5 @@
+{
+  "name": "Threat Visualizer",
+  "description": "A tool to visualize threat data from ThreatLoggerDB .lua files.",
+  "requestFramePermissions": []
+}
